@@ -1,0 +1,1 @@
+Original Fathermon drawings by SayverOcean Game Studio, adapted into rounded 3D meshes. These GLB files export the high-detail static meshes; the playable HTML adds procedural walk, idle, wing/tail and interaction animation in its shader. The original portraits remain unchanged.

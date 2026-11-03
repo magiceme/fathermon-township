@@ -1,0 +1,46 @@
+{
+  "originalBuildSha256": "0cb47dcd0343affedd4c8e89062fd836b04dde39ea30299369308216a28c7140",
+  "unchangedImages": 10,
+  "images": [
+    {
+      "name": "Machappy",
+      "sha256": "c816dcd15a98ff6784e4724d10f170897aaa60d7ec8db3d53e20e168fe73fb6e"
+    },
+    {
+      "name": "Rockrool",
+      "sha256": "66d657700b6b6d9a65da19d35dda4cfe3c80670f3cb44724e2aaed493e655bb5"
+    },
+    {
+      "name": "Protexture",
+      "sha256": "b501f9bdb15eafd987fc4f60d6253cf2bfb5bf93484f461ad60124b83f0bc8fa"
+    },
+    {
+      "name": "Hearic",
+      "sha256": "eedde2e6466258873b5a0a050e1dc93e0b026a6734668b4c4829f45b90815486"
+    },
+    {
+      "name": "Robome",
+      "sha256": "2b93ab6ddd715aa396f51854251acaa8c8585cca075101266c34ffd7924c3964"
+    },
+    {
+      "name": "Happier",
+      "sha256": "9a15fa5056bd3ba98dcacd490858c13cbce8aaf625beb2fd94d814a9e2cc8339"
+    },
+    {
+      "name": "Capa",
+      "sha256": "3ed4adb2496581abed0de9c54c5a9a27292bc8a258e635440e7cdaecbe8a446a"
+    },
+    {
+      "name": "Senera",
+      "sha256": "5a90e54a63068489bb8db655f839ef878792b24ca248ea02edba76f28c043333"
+    },
+    {
+      "name": "Bara",
+      "sha256": "4513ee4a679c39567d5275a3de155f808fbf6a8280fdb9df24d14eb0d0194fe5"
+    },
+    {
+      "name": "Mirospo",
+      "sha256": "953f76e23da944a826f51c45512934f68875311513aa566060dbb62e67696a78"
+    }
+  ]
+}

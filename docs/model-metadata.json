@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Machappy",
+    "width": 0.8387096774193549,
+    "height": 1.3,
+    "depth": 0.4013742866737877,
+    "triangles": 12836,
+    "lod": "high"
+  },
+  {
+    "name": "Rockrool",
+    "width": 2.480364957899808,
+    "height": 1.3,
+    "depth": 0.6818181818181819,
+    "triangles": 7192,
+    "lod": "high"
+  },
+  {
+    "name": "Protexture",
+    "width": 1.3,
+    "height": 1.3,
+    "depth": 0.5201927979238099,
+    "triangles": 13576,
+    "lod": "high"
+  },
+  {
+    "name": "Hearic",
+    "width": 1.44335348625084,
+    "height": 1.3,
+    "depth": 0.5560847262133277,
+    "triangles": 14596,
+    "lod": "high"
+  },
+  {
+    "name": "Robome",
+    "width": 1.2024961712571127,
+    "height": 1.3,
+    "depth": 0.4536299765807964,
+    "triangles": 16900,
+    "lod": "high"
+  },
+  {
+    "name": "Happier",
+    "width": 1.3142861901305218,
+    "height": 1.3,
+    "depth": 0.6023811704764892,
+    "triangles": 5760,
+    "lod": "high"
+  },
+  {
+    "name": "Capa",
+    "width": 2.3499999999999996,
+    "height": 1.3,
+    "depth": 1.14375,
+    "triangles": 10810,
+    "lod": "high"
+  },
+  {
+    "name": "Senera",
+    "width": 1.5145631067961165,
+    "height": 1.3,
+    "depth": 0.5237862712928146,
+    "triangles": 14066,
+    "lod": "high"
+  },
+  {
+    "name": "Bara",
+    "width": 1.0212318082974603,
+    "height": 1.3,
+    "depth": 0.42405616942909763,
+    "triangles": 13966,
+    "lod": "high"
+  },
+  {
+    "name": "Mirospo",
+    "width": 0.797607339305977,
+    "height": 1.3,
+    "depth": 0.5380620710863998,
+    "triangles": 4602,
+    "lod": "high"
+  }
+]

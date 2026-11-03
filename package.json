@@ -1,0 +1,14 @@
+{
+  "name": "fathermon-township",
+  "version": "0.6.0",
+  "private": true,
+  "description": "Original cozy township game by SayverOcean Game Studio",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "dev": "python3 -m http.server 8000 --bind 0.0.0.0 --directory dist",
+    "test": "npm run build && node tools/test.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.57.0"
+  }
+}

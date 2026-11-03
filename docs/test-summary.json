@@ -1,0 +1,231 @@
+{
+  "passed": 44,
+  "failed": 0,
+  "skipped": 0,
+  "flaky": 0,
+  "startedAtUtc": "2026-11-03T21:34:16.181Z",
+  "durationMs": 237319.686,
+  "testedHtmlSha256": "b89676bc76fe00db6df62ab36fd694c69f132bfc13560229b69ad3070c782cd3",
+  "tests": [
+    {
+      "title": "biome materials are authentic, local, unique per day, and visible in three distinct climates",
+      "status": "passed",
+      "durationMs": 8171
+    },
+    {
+      "title": "biome seeds need three watered days, preserve ripe growth in saves, and cook real harvests",
+      "status": "passed",
+      "durationMs": 4455
+    },
+    {
+      "title": "all thirteen workshop furniture recipes spend actual materials and save rotated, refinished and moved items",
+      "status": "passed",
+      "durationMs": 4328
+    },
+    {
+      "title": "the 3D home room draws actual finite meshes and a pointer tap places furniture",
+      "status": "passed",
+      "durationMs": 4119
+    },
+    {
+      "title": "swimming, diving and gliding lessons require stars and authentic biome supplies",
+      "status": "passed",
+      "durationMs": 3175
+    },
+    {
+      "title": "water movement stays in water, pearls require diving, and flight can land safely",
+      "status": "passed",
+      "durationMs": 6785
+    },
+    {
+      "title": "six hundred authored conversations cover every creature, match weather, avoid immediate repeats, and persist history",
+      "status": "passed",
+      "durationMs": 6118
+    },
+    {
+      "title": "expanded world and ten actual 3D meshes retain distinct shapes and lower-detail variants",
+      "status": "passed",
+      "durationMs": 7230
+    },
+    {
+      "title": "creative workshop makes custom furniture with materials and conserved inspiration",
+      "status": "passed",
+      "durationMs": 4392
+    },
+    {
+      "title": "modular home wings add true collision and ten persistent interior spaces",
+      "status": "passed",
+      "durationMs": 5567
+    },
+    {
+      "title": "community welcome project requires a real useful layout and rewards once",
+      "status": "passed",
+      "durationMs": 4871
+    },
+    {
+      "title": "town stars unlock a hotel; guests require chat and a vacant home to move in",
+      "status": "passed",
+      "durationMs": 6716
+    },
+    {
+      "title": "learned workshop abilities consume supplies and physically open new areas",
+      "status": "passed",
+      "durationMs": 5094
+    },
+    {
+      "title": "all ten original Fathermon can begin alone and move",
+      "status": "passed",
+      "durationMs": 917
+    },
+    {
+      "title": "story Chapters 1\u20133 complete through gathering, crafting, invitations and editing",
+      "status": "passed",
+      "durationMs": 1243
+    },
+    {
+      "title": "progression gates cannot be bypassed from direct or Designer actions",
+      "status": "passed",
+      "durationMs": 633
+    },
+    {
+      "title": "farm growth, fishing, cooking, shopping and furniture conservation",
+      "status": "passed",
+      "durationMs": 1224
+    },
+    {
+      "title": "undo and redo preserve unrelated resources and occupied homes",
+      "status": "passed",
+      "durationMs": 832
+    },
+    {
+      "title": "buildings and pond block movement, and tap paths route around cottages",
+      "status": "passed",
+      "durationMs": 1292
+    },
+    {
+      "title": "daily gifts and favors spend their inventory and increase friendship",
+      "status": "passed",
+      "durationMs": 1267
+    },
+    {
+      "title": "title, character selection, naming, Continue and three isolated save slots",
+      "status": "passed",
+      "durationMs": 20084
+    },
+    {
+      "title": "migrates v0.3 without overwriting its original save",
+      "status": "passed",
+      "durationMs": 5230
+    },
+    {
+      "title": "migrates v0.4 without overwriting its original save",
+      "status": "passed",
+      "durationMs": 5261
+    },
+    {
+      "title": "migrates v0.5 without overwriting its original save",
+      "status": "passed",
+      "durationMs": 5272
+    },
+    {
+      "title": "JSON export/import roundtrip and malformed backup leave active town intact",
+      "status": "passed",
+      "durationMs": 4912
+    },
+    {
+      "title": "low graphics, isometric fallback, map, inventory categories and keyboard focus",
+      "status": "passed",
+      "durationMs": 13585
+    },
+    {
+      "title": "touch and keyboard layout 390x844",
+      "status": "passed",
+      "durationMs": 5658
+    },
+    {
+      "title": "touch and keyboard layout 844x390",
+      "status": "passed",
+      "durationMs": 5859
+    },
+    {
+      "title": "touch and keyboard layout 1366x768",
+      "status": "passed",
+      "durationMs": 7577
+    },
+    {
+      "title": "WebGL absence and context loss keep the game playable; cached scene stays stable",
+      "status": "passed",
+      "durationMs": 11945
+    },
+    {
+      "title": "62 collectible species have reachable rarity windows and crafted tools catch physical specimens",
+      "status": "passed",
+      "durationMs": 5195
+    },
+    {
+      "title": "museum requires town stars, consumes exact exhibits and expands with clearance, materials and undo",
+      "status": "passed",
+      "durationMs": 5048
+    },
+    {
+      "title": "pizzeria harvests and fish are spent once, park meetings consume meals and daily stock returns",
+      "status": "passed",
+      "durationMs": 4796
+    },
+    {
+      "title": "three daily tasks follow real actions, claim once, persist and reset on the next town day",
+      "status": "passed",
+      "durationMs": 5182
+    },
+    {
+      "title": "watered gardens need four minutes per stage and calendar keepsakes require dated participation once yearly",
+      "status": "passed",
+      "durationMs": 5472
+    },
+    {
+      "title": "30 original guest meshes are finite and cached; hotel exclusivity and paid neighborhood homes persist",
+      "status": "passed",
+      "durationMs": 6473
+    },
+    {
+      "title": "river walking is blocked until a nearby bridge spends materials and creates a connected crossing",
+      "status": "passed",
+      "durationMs": 4610
+    },
+    {
+      "title": "28-day seasons gate rare visitors, give seasonal harvests and rain waters exactly one growth stage",
+      "status": "passed",
+      "durationMs": 5279
+    },
+    {
+      "title": "built home furniture supports real meal costs, daily care, persistent lighting and sleeping to morning",
+      "status": "passed",
+      "durationMs": 8173
+    },
+    {
+      "title": "Chromebook keyboard and Shift-trackpad camera coexist with editable diary text",
+      "status": "passed",
+      "durationMs": 4971
+    },
+    {
+      "title": "touch movement and camera joysticks respond to real pointer drags and release cleanly",
+      "status": "passed",
+      "durationMs": 5604
+    },
+    {
+      "title": "standalone HTML plays as an inline document with networking disabled",
+      "status": "passed",
+      "durationMs": 4844
+    },
+    {
+      "title": "wilderness route crosses a bridge and isometric terrain remains visible outside town",
+      "status": "passed",
+      "durationMs": 4257
+    },
+    {
+      "title": "startup has no JavaScript errors",
+      "status": "passed",
+      "durationMs": 1287
+    }
+  ]
+}
